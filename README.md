@@ -4,7 +4,7 @@ Here are the things you can say so far:
 
 -play  
 -pause  
--up                      	(volume up)  
+-up                       (volume up)  
 -down                     (volume down)  
 -volume #                 (volume at a certain number out of 100)  
 -next                     (next song)  

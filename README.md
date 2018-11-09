@@ -3,7 +3,7 @@ Say "hey Siri" and your mac will start listening to you and you can give voice c
 Here are the things you can say so far:  
 
 -play  
--pause
+-pause  
 -up                       (volume up)  
 -down                     (volume down)  
 -volume #                 (volume at a certain number out of 100)  
